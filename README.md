@@ -1,3 +1,4 @@
+# Free Fire Headshot Config File
 
 Free Fire is known for its large player base. One of the most important skills in Free Fire is the ability to land headshots. Headshots are instant kills and they can give you a significant advantage in battle.
 
